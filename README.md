@@ -1,6 +1,7 @@
 # dwes_2021-BertaVR
- - Las respuestas están en examen.txt
- - La carpeta con la que he hecho pruebas (por si la quieres ver) es la de pruebas
+ - Para ver el repo entero lo tienes clonado en el servidor en /var/www/ifc33x/bverges/dwes_2021-BertaVR
+ - Las respuestas están en /var/www/ifc33x/bverges/dwes_2021-BertaVR/examen.txt
+ - La carpeta con la que he hecho pruebas (por si la quieres ver) es la de Pruebas_teoria
  - Para ver el 6 http://bverges.ddns.net/examen/
  - http://bverges.ddns.net/Pruebas_teoria/ para mis pruebas de teoría, pero poco se puede ver ahí 
 
