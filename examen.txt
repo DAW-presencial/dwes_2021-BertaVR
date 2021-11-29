@@ -43,3 +43,6 @@ Se activarán las funciones del padre siempre que haya visibilidad desde la clas
 intenta llamar. Si es publica se activará, si es privada no, si es protegida solo desde una clase que herede 
 de la clase padre.
 
+Ejercicio 6:
+http://bverges.ddns.net/examen/
+http://bverges.ddns.net/examen/archivosEnviados --> para comprobar que los archivos se envían
