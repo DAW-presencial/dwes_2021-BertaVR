@@ -1,6 +1,6 @@
 <?php
 
- Class A{
+ Class A extends madre{
     public function __construct(int $id, string $name)
     {
         $this->id = $id;
@@ -11,7 +11,7 @@
     {
         $this->name = $name;
     }
-    public function getName(): string
+    private function getName(): string
     {
         return $this->name;
     }

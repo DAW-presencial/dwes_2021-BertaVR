@@ -1,6 +1,7 @@
 <?php
 
-Class padre{
+Class madre{
+    private $name = "zdfsfdfd";
 
     public function __construct(int $id, string $name)
     {
@@ -17,7 +18,7 @@ Class padre{
     {
         $this->name = $name;
     }
-    public function getName(): string
+    private function getName(): string
     {
         return $this->name;
     }
