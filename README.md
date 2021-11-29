@@ -26,7 +26,7 @@ $prueba->property = 'property';
 
 
 
-##OUTPUT por consola de var_dump de cada propiedad
+##OUTPUT por consola de var_dump de cada propiedad:
 
 class A#2 (3) {
   public $id =>
